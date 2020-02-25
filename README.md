@@ -1,4 +1,4 @@
-# Walmart-Address-Scraper
+# Walmart Scrape!
 Get the Real and Accurrate address of every Walmart in United States.
 
 ## NOTE
